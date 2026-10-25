@@ -1,0 +1,6 @@
+# Necessário para a foto de perfil do Player 2 (opcional, mas recomendado)
+Pillow>=10.0
+# Necessário para o jogo de teste integrado e para os efeitos sonoros
+pygame>=2.5
+# Opcional: guarda a chave de API no cofre do sistema (Windows Credential Manager, Keychain...)
+keyring>=24.0

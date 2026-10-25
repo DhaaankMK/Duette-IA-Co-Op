@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.zip.tmp
+
+# Dados locais do usuário (nunca versionar)
+*.log
+*.log.*
+config.json
+config.json.bak
+.DS_Store
+teste_game/content/video_settings.json
