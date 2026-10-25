@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "name": "click",
+      "file": "sounds/Mouse Click.mp3",
+      "duration_ms": null,
+      "function": "Clique em botões e itens da interface"
+    }
+  ]
+}
