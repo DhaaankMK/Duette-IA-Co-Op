@@ -1,0 +1,129 @@
+{
+  "styles": {
+    "STICK": {
+      "color": [255, 255, 255],
+      "hp": 100,
+      "speed": 7.0,
+      "desc": "Equilibrado e clássico."
+    },
+    "TANK": {
+      "color": [80, 180, 100],
+      "hp": 150,
+      "speed": 5.0,
+      "desc": "Muito resistente, porém lento."
+    },
+    "NINJA": {
+      "color": [220, 60, 220],
+      "hp": 80,
+      "speed": 9.5,
+      "desc": "Super rápido, mas toma mais dano."
+    },
+    "DEMON": {
+      "color": [255, 50, 50],
+      "hp": 120,
+      "speed": 8.0,
+      "desc": "Poderoso e agressivo."
+    },
+    "ROBO": {
+      "color": [100, 190, 220],
+      "accent": [30, 65, 85],
+      "hp": 135,
+      "speed": 5.8,
+      "body": "robot",
+      "accessory": "visor",
+      "desc": "Armadura tecnológica e visor energético."
+    },
+    "SAMURAI": {
+      "color": [235, 235, 245],
+      "accent": [190, 35, 45],
+      "hp": 115,
+      "speed": 6.8,
+      "body": "athletic",
+      "accessory": "helmet",
+      "desc": "Guerreiro disciplinado com armadura tradicional."
+    },
+    "VAMPIRO": {
+      "color": [145, 55, 190],
+      "accent": [35, 10, 55],
+      "hp": 105,
+      "speed": 7.6,
+      "body": "slim",
+      "accessory": "cape",
+      "desc": "Ágil, elegante e envolto em uma capa sombria."
+    },
+    "ANJO": {
+      "color": [255, 220, 120],
+      "accent": [255, 255, 220],
+      "hp": 110,
+      "speed": 7.2,
+      "body": "athletic",
+      "accessory": "wings",
+      "desc": "Combatente celestial com asas luminosas."
+    },
+    "HULK": {
+      "color": [65, 205, 75],
+      "accent": [20, 95, 35],
+      "hp": 300,
+      "speed": 6.5,
+      "body": "heavy",
+      "accessory": "none",
+      "desc": "Gigante verde com força devastadora."
+    }
+  },
+  "weapons": {
+    "PUNHO": {
+      "damage": 12,
+      "range": 50,
+      "cooldown": 14,
+      "desc": "Ataque rápido de curto alcance."
+    },
+    "BASTÃO": {
+      "damage": 18,
+      "range": 70,
+      "cooldown": 20,
+      "desc": "Alcance médio com boa força."
+    },
+    "ESPADA": {
+      "damage": 28,
+      "range": 85,
+      "cooldown": 28,
+      "desc": "Corte pesado e alcance longo."
+    },
+    "KATANA": {
+      "damage": 35,
+      "range": 90,
+      "cooldown": 22,
+      "desc": "Lâmina rápida e letal."
+    },
+    "MARTELO": {
+      "damage": 42,
+      "range": 72,
+      "cooldown": 34,
+      "desc": "Golpe lento que lança o adversário longe."
+    },
+    "LANCA": {
+      "damage": 25,
+      "range": 115,
+      "cooldown": 24,
+      "desc": "Alcance enorme e ataque direto."
+    },
+    "MACHADO": {
+      "damage": 38,
+      "range": 82,
+      "cooldown": 30,
+      "desc": "Ataque pesado com lâmina larga."
+    },
+    "ARCO": {
+      "damage": 30,
+      "range": 135,
+      "cooldown": 32,
+      "desc": "Disparo de longo alcance."
+    },
+    "CHAKRAM": {
+      "damage": 22,
+      "range": 105,
+      "cooldown": 18,
+      "desc": "Arma circular veloz e imprevisível."
+    }
+  }
+}

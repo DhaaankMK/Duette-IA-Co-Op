@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "games": [
+    {
+      "id": "mortal_stick",
+      "name": "Mortal Stick Combat (jogo de teste)",
+      "description": "Jogo de luta 2D incluído no Duette para testar o Player 2 sem instalar nada.",
+      "kind": "builtin"
+    },
+    {
+      "id": "bonelab",
+      "name": "BONELAB",
+      "description": "Jogo de física em VR. Requer MelonLoader e o mod de integração do Duette.",
+      "kind": "mod",
+      "executable": "BONELAB_Steam_Windows64.exe",
+      "steam_app_folder": "BONELAB",
+      "required_files": ["MelonLoader", "Mods/DuetteBridge.dll"],
+      "bundle": null,
+      "bundle_sha256": null
+    }
+  ]
+}

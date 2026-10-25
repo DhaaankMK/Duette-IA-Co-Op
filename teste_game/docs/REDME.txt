@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------
+10. POLIMENTO DE JOGABILIDADE
+------------------------------------------------------------------------
+
+- Pressione P durante a luta para pausar ou continuar.
+- Depois de uma derrota, pressione R para iniciar uma revanche imediata.
+- O impacto agora possui um breve hit-stop e feedback mais forte.
+- O HUD se adapta às resoluções configuradas.
+- O volume dos efeitos sonoros pode ser ajustado em SETTINGS.
+- Resolução, Hz, tela cheia, gamma, volume e acesso ao console são salvos
+automaticamente em `content/video_settings.json`.
+------------------------------------------------------------------------
